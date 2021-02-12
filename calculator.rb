@@ -3,7 +3,7 @@ second_number = 2.0
 
 def sum (first_number , second_number)
 sum = first_number + second_number
-puts sum
+puts sum (3.0)
 end
 
 def difference (first_number, second_number)
