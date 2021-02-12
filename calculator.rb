@@ -23,4 +23,3 @@ def quotient
 quotient = first_number.to_s / second_number.to_s
 puts quotient
 end
-
