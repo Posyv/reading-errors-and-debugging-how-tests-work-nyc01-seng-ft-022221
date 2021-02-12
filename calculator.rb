@@ -5,7 +5,6 @@ def sum (first_number , second_number)
 sum = first_number + second_number
 puts sum
 end
-sum (1.0,2.0)
 
 def difference (first_number, second_number)
   differnece = first_number - second_number
