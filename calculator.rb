@@ -8,8 +8,8 @@ sum
 
 def difference
   first_number - second_number
-end 
-difference 
+end
+difference
 
 def product
   first_number * second_number
@@ -20,4 +20,3 @@ def quotient
 first_number / second_number
 end
 quotient
-
