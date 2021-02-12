@@ -1,7 +1,7 @@
 first_number = 1.0
 second_number = 2.0
 
-def sum = first_number , second_number
+def sum (first_number , second_number)
 sum = first_number.to_s + second_number.to_s
 puts sum
 end
